@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @balaji-srinivasan-santhanam
-- 🌱 I’m currently a researcher in the Tavazoie lab at Columbia (@tavalab)
+- 👋 Hello World! I’m @balaji-srinivasan-santhanam
+- 🌱 I’m currently a post-doc in the Tavazoie lab at Columbia University (https://github.com/tavalab)
 
 <!---
 balaji-srinivasan-santhanam/balaji-srinivasan-santhanam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
